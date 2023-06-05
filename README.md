@@ -31,4 +31,3 @@ _"긴 URL을 짧은 URL로 단축시켜주는 애플리케이션"_
 - URL_CALL
   - 단축 URL이 생성될 때마다 Row가 추가되며, 호출 시간과 HTTP Referer를 기록
 
-# Shortener
